@@ -18,5 +18,5 @@ Browser ad/privacy blocker by noviciususor.
 
 Note: in-player advertising changes frequently. This build uses a conservative DOM/player fallback so it does not blindly block all media requests and break the requested video.
 
-Author
+## Author
 Created and maintained by noviciususor.
