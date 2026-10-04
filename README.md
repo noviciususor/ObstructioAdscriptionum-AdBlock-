@@ -1,9 +1,11 @@
+<img width="2172" height="724" alt="logo" src="https://github.com/user-attachments/assets/4ffff30d-33d7-4432-bd5b-f92c49660e46" />
+
 # Obstructio Adscriptionum v0.3.0
 
 Browser ad/privacy blocker by noviciususor.
 
 ## v0.3 additions
-- Pre-roll/in-player ad fallback for YouPorn: detects visible ad-state UI, clicks Skip Ad when available, and fast-forwards short ad media.
+- Pre-roll/in-player ad fallback for detects visible ad-state UI, clicks Skip Ad when available, and fast-forwards short ad media.
 - Existing popup/pop-under blocking retained.
 - Existing network and cosmetic blocking retained.
 
