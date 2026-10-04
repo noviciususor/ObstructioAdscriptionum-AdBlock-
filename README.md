@@ -17,3 +17,6 @@ Browser ad/privacy blocker by noviciususor.
 5. Reload already-open test pages (Ctrl+F5).
 
 Note: in-player advertising changes frequently. This build uses a conservative DOM/player fallback so it does not blindly block all media requests and break the requested video.
+
+Author
+Created and maintained by noviciususor.
