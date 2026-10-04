@@ -1,0 +1,6 @@
+/* Conservative generic cosmetic rules. */
+iframe[src*="doubleclick.net"], iframe[src*="googlesyndication.com"], iframe[src*="exoclick.com"], iframe[src*="trafficjunky"], iframe[src*="juicyads"],
+img[src*="doubleclick.net"], img[src*="googlesyndication.com"],
+[data-ad-container="true"], [data-ad-slot], [data-ad-unit], [aria-label="Advertisement"],
+.advertisement:not(body):not(html), .ad-container:not(body):not(html), .ad-wrapper:not(body):not(html), .ads-container:not(body):not(html),
+[class~="advertisement"], [id^="google_ads_"], [id^="div-gpt-ad-"] { display:none !important; visibility:hidden !important; }
